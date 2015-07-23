@@ -1,4 +1,4 @@
-CLUB SHEKINAH
+﻿CLUB SHEKINAH
 ---------------
 
 ## Especialidades
@@ -92,3 +92,72 @@ BIBLIOGRAFÍA:
 Trainor, Timothy. Krasnewich, Diane. Computers!. 3er. Edición. McGraw-Hill. 1992
 
 ```
+
+
+
+
+
+
+
+
+
+
+COMPUTACION IV – AVANZADO
+1.	Tener la especialidad Computación III – Regular.
+2.	Presentar un informe de, como mínimo, 2000 palabras sobre las computadoras de la cuarta generación.
+La cuarta generación de computadoras comprende desde 1971 hasta 1981 y la principal característica de esta generación es la creación del microprocesador.
+Un microprocesador es un conjunto de circuitos integrados en un solo componente, capaz de realizar todas las funciones de una computadora. A fines de la tercera generación de computadoras, nació un nuevo tipo de computadoras: las micro-computadoras. Este tipo de ordenadores recibieron el nombre de micro-computadoras porque utilizaban microprocesadores.
+Mucho más pequeñas, veloces y accesibles, llegaron a venderse millones en todo el mundo y a ser el producto informático más vendido de la historia hasta la cuarta generación de computadoras.
+Los creadores de Apple hicieron historia en la cuarta generación de computadoras a principios de la cuarta generación de computadoras, en 1971, John Blankenbaker fabricó la primera PC, reconocida mundialmente como Kenbak 1.
+En 1973 la marca de computadoras IBM introdujo en los modelos IBM 3340 los discos duros Winchister, convirtiendo dichos dispositivos de almacenamiento en el estándar de la industria informática.
+En 1974 comenzó a lucirse la verdadera industria de la informática, cuando Intel Corporation presentó el primer CPU (Unidad Central de Procesos) compuesto por un microchip de circuito integrado denominado 8080. Este hecho cautivó el interés en hogares y pequeños negocios a lo largo de 1975.
+Principales características de la cuarta generación de computadoras:
+1) El microcomputadora.
+2) Memorias electrónicas que resultan más rápidas y reducidas.
+3) Sistemas de bases de datos
+4) Micro-computadora y computadora personal (PC)
+
+3.	Definir los siguientes términos:
+a.	Bit.
+Bit es el acrónimo Binary digit (‘dígito binario’) o bitio. Un bit es un dígito del sistema de numeración binario. Las unidades de almacenamiento tienen por símbolo bit.
+b.	Kilobyte.
+Un kilobyte (pronunciado [kilobait]) es una unidad de almacenamiento de información cuyo símbolo es el kB (con la 'k' en minúsculas) y equivale a 103 (mil) bytes. Aunque el prefijo griego kilo significa «mil», el término «kilobyte» y el símbolo «kB» se han utilizado históricamente para hacer referencia tanto a 1024 (210) bytes como a 1000 (103) bytes, dependiendo del contexto, en los campos de la informática y de la tecnología de la información.
+c.	Megabyte.
+El megabyte (MB) o megaocteto (Mo) es una cantidad de datos informáticos. Es un múltiplo del byte u octeto, que equivale a 106 B (un millón de bytes).
+d.	Gigabyte.
+Un gigabyte es una unidad de almacenamiento de información cuyo símbolo es el GB, equivalente a 109 (mil millones) bytes. Muchas veces se confunde con 230 bytes, igual a un gibibyte de acuerdo con las normativas IEC 60027-2 y la IEC 80000-13:2008 publicadas por la Comisión Electrotécnica Internacional.
+e.	Terabyte
+Un terabyte es una unidad de cantidad de información cuyo símbolo es el TB, y equivale a 1012 (un billón de bytes).
+4.	¿Qué son los Virus? 
+Los virus son programas informáticos que tienen como objetivo alterar el  funcionamiento del computador, sin que el usuario se de cuenta. Estos, por lo general, infectan otros archivos del sistema con la intensión de modificarlos para destruir de manera intencionada archivos o datos almacenados en tu computador. Aunque no todos son tan dañinos. Existen unos un poco más inofensivos que se caracterizan únicamente por ser molestos.
+¿Cómo podemos estar a salvo de ellos?
+No se puede garantizar la seguridad de su PC, pero existen muchas formas de disminuir la probabilidad de que ingrese un virus a su computadora.
+Es imprescindible que su programa antivirus cuente con las últimas actualizaciones (usualmente denominadas “archivos de definición”) que ayudan a la herramienta a identificar y a eliminar las últimas amenazas.
+Puede continuar mejorando la seguridad de su computadora y disminuir las posibilidades de que sufra una infección mediante el uso de un firewall (US), actualizando su computadora, teniendo un programa antivirus actualizado (como por ejemplo Microsoft Security Essentials ) y usando algunas prácticas mejores. Para obtener información detallada sobre cómo evitar infecciones, visite el sitio web de Microsoft Windows.
+5.	Describir detalladamente tres virus famosos y los estragos que le causan a la computadora.
+•	Virus CHI o Chernobyl: Apareció en 1998 y puso en el punto de mira a los sistemas equipados con Windows 95, 98 y Me. Se estima que infectó a un total de 60 millones de equipos, provocando unas pérdidas totales que rondaban los 1.000 millones de dólares, debido especialmente al valor de la información que destruía. Una vez dentro del equipo infectado CHI eliminaba la información del equipo, pero también podía llegar a suprimir la BIOS, de forma que hacía imposible el arranque.
+•	I Love You: Uno de los más conocidos, llegó allá por el año 2000, disfrazado de correo electrónico con tintes de romanticismo. En un tiempo donde los usuarios eran mucho más ingenuos y los filtros anti-spam claramente mejorables consiguió infectar a más de 50 millones de equipos con gran rapidez. El virus del amor generó 5.500 millones de dólares en pérdidas, afectando a entidades tan importantes como el Pentágono o el Parlamento Británico, además de a numerosas empresas españolas.
+•	SQL Slammer: Este gusano no se instalaba en el disco duro de los equipos, sino en la memoria RAM. Así, desaparecía con un simple reinicio pero eso fue suficiente para infectar a medio mundo en solo 15 minutos. SQL Slammer afecto a compañías aéreas, cajeros automáticos y dejó sin intener a Corea del Sur y Portugal, provocando una situación de serio riesgo para millones de personas.
+6.	 ¿Qué es internet?
+Podemos definir a Internet como una "red de redes", es decir, una red que no sólo interconecta computadoras, sino que interconecta redes de computadoras entre sí. 
+Una red de computadoras es un conjunto de máquinas que se comunican a través de algún medio (cable coaxial, fibra óptica, radiofrecuencia, líneas telefónicas, etc.) con el objeto de compartir recursos.
+De esta manera, Internet sirve de enlace entre redes más pequeñas y permite ampliar su cobertura al hacerlas parte de una "red global". Esta red global tiene la característica de que utiliza un lenguaje común que garantiza la intercomunicación de los diferentes participantes; este lenguaje común o protocolo (un protocolo es el lenguaje que utilizan las computadoras al compartir recursos) se conoce como TCP/IP.
+Así pues, Internet es la "red de redes" que utiliza TCP/IP como su protocolo de comunicación.
+Internet es un acrónimo de INTERconected NETworks (Redes interconectadas).
+Para otros, Internet es un acrónimo del inglés INTERnational NET, que traducido al español sería Red Mundial.
+¿Cómo nos puede influenciar en la vida moderna?
+Internet es una de las palabras más nombradas en los últimos tiempos por quienes se aproximan a la tecnología o a la informática. Internet reúne un gran conjunto de denotaciones y connotaciones, de acuerdo a los grupos de usuarios, y a los servicios cambiantes y en continua evolución. Con más de 200 millones de usuarios en todo el mundo, Internet se ha convertido en el medio de comunicación más extendido en toda la historia de la humanidad.
+7.	 Ingresar y describir el contenido de cinco sitios educativos en internet. Presentar un informe de una página sobre lo aprendido en cada uno de los sitios.
+•	 http://www.eltuboadventista.com
+Es un sitio Cristiano el cual proporciona videos de la lección de Maestro.
+•	http://www.adventistascastelar.com
+Un sitio que proporciona material Cristiano.
+•	https://es.symbolab.com
+Una calculadora virtual que ayuda en mucho a estudiantes en especial.
+•	http://www.appgeek.com/
+Es un sitio que brinda información tecnológica de punta.
+•	http://www.taringa.net/
+•	Un sitio que brinda diversidad de información en especial para investigadores.
+8.	
+
+
