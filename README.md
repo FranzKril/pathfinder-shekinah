@@ -3,11 +3,11 @@
 
 ## Especialidades
 
-- [Computacion 1](#Computacion)
-- [Computacion 2](#Computacion)
-- [Computacion 3](#Computacion)
-- [Computacion 4](#Computacion)
-- [Computacion 5](#Computacion)
+- [Computacion I](#Computacion)
+- [Computacion II](#Computacion)
+- [Computacion III](#Computacion)
+- [Computacion IV](#Computacion)
+- [Computacion V](#Computacion)
 - [Desarrollo de software](#Computacion)
 - [Informatica programable](#Computacion)
 
